@@ -12,23 +12,23 @@
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "25298674",
+            "description": "26181533",
             "required": true
         },
         "API_HASH": {
-            "description": "1a7e01278b2bf0fe975fb8ce7c5ead8d",
+            "description": "61f8a38f9d9d079100ba56fcbb9ea9b7",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "7092396095:AAF_jP7qZx_cC0esduKkPafHGt9vhsrWxiM",
+            "description": "6530591294:AAFswhzCCJ5Sh3Q-j7vA6KaS2IwrFvKqmBw",
             "required": true
         },
         "OWNER_ID": {
-            "description": "6793357832",
+            "description": "6329158981",
             "required": true
         },
         "SUDO_USERS": {
-            "description": "6793357832)",
+            "description": "6329158981)",
             "required": true
         }
     },
